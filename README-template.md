@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/rubi-cyber313/Blog-preview-card)
 - Live Site URL:(https://rubi-cyber313.github.io/Blog-preview-card/)
 
 ## My process
@@ -32,11 +32,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
 ## Author
 
-- Website - [Rubi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Rubi]
+- Frontend Mentor - [@rubi-cyber313](https://www.frontendmentor.io/profile/rubi-cyber313))
